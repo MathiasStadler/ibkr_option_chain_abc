@@ -1,0 +1,3 @@
+Bitte erstelle ein programm in der programmiersprahce rust das die option chain der Aktie IBM download. Vervwende hirzu die Interactive Brokers HTTP REST API. Und die local gestatrtets Software TWS
+
+https://chatgpt.com/c/696403fc-c974-8328-8881-e5f0e1964de0
